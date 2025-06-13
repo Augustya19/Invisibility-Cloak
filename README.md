@@ -47,22 +47,18 @@ pip install opencv-python numpy
 ### Running the script 
 python cloak.py
 
-📌 Tips for Best Results
+### 📌 Tips for Best Results
+
 Use a brightly colored cloth (preferably red, blue, or green).
-
 Ensure consistent lighting.
-
 Avoid wearing clothes similar in color to the cloak.
-
 Keep the background as static as possible.
 
-💡 Potential Use Cases
+### 💡 Potential Use Cases
+
 Augmented Reality filters
-
 Video production effects
-
 Magic tricks & entertainment
-
 Education on image processing
 
 
