@@ -15,8 +15,7 @@ A computer vision project that simulates real-life invisibility using **Python**
 
 ## 🎯 Features
 
-- Real-time invisibility effect via webcam
-- Accurate color masking and segmentation
+- Real-time invisibility effect via webcamAccurate color masking and segmentation
 - Background replacement using NumPy + OpenCV
 - Easy-to-extend for any solid-colored object
 
@@ -48,17 +47,21 @@ pip install opencv-python numpy
 python cloak.py
 
 ### 📌 Tips for Best Results
+Use a brightly colored cloth (preferably red, blue, or green).
 
--Use a brightly colored cloth (preferably red, blue, or green).
--Ensure consistent lighting.
--Avoid wearing clothes similar in color to the cloak.
--Keep the background as static as possible.
+Ensure consistent lighting.
 
-### 💡 Potential Use Cases
+Avoid wearing clothes similar in color to the cloak.
 
--Augmented Reality filters
--Video production effects
--Magic tricks & entertainment
--Education on image processing
+Keep the background as static as possible.
+
+###💡 Potential Use Cases
+Augmented Reality filters
+
+Video production effects
+
+Magic tricks & entertainment
+
+Education on image processing
 
 
