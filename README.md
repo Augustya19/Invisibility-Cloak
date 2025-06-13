@@ -55,7 +55,7 @@ Avoid wearing clothes similar in color to the cloak.
 
 Keep the background as static as possible.
 
-###💡 Potential Use Cases
+### 💡 Potential Use Cases
 Augmented Reality filters
 
 Video production effects
