@@ -40,7 +40,9 @@ A computer vision project that simulates real-life invisibility using **Python**
 ### Installation
 
 git clone https://github.com/Augustya19/Invisibility-Cloak.git
+
 cd Invisibility-Cloak
+
 pip install opencv-python numpy
 
 ### Running the script 
